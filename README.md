@@ -18,3 +18,8 @@ The **simple-interest.sh** performs the calculation by accepting:
 - The time in years
 - The rate in percentage.
 
+
+### Returns
+
+It returns the interest.
+
