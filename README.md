@@ -10,3 +10,11 @@ To get started, just clone this repo and execute the **simple-interest.sh**
 
 It can be run on a Linux PC or Unix Based system
 
+### Parameters
+
+The **simple-interest.sh** performs the calculation by accepting:
+
+- The principal
+- The time in years
+- The rate in percentage.
+
